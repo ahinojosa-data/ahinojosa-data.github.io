@@ -4,9 +4,9 @@ description: Time Series
 layout: default
 ---
 
-# Time Series Decomposition
-A Decomposition analysis of construction data
-- [Student Loan Project (HTML)](StudentLoan.html)
-- [Student Loan Project (ipynb)](StudentLoan.ipynb)
+# A series of projects I completed while a student at General Assembly 
+Analysis of IMDB Data
+- [IMDB Data Analysis (HTML)](IMDbDataAnalysis.html)
+- [IMDB Data Analysis (ipynb)](IMDbDataAnalysis.ipynb)
 
 [back](https://ahinojosa-data.github.io/)
