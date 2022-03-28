@@ -6,5 +6,5 @@ Description: Main page
 
 This is Data Content
 
-- [Time Series Decomposition](/timeseries/index.md)
+- [Projects](/projects/index.md)
 - [Data Repo](https://github.com/ahinojosa-data/Data-Science)
