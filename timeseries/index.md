@@ -1,6 +1,7 @@
 ---
 title: Timeseries Decompostion
 description: timeseries
+layout: default
 ---
 
 # Time Series Decomposition
