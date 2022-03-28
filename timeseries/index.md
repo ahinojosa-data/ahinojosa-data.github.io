@@ -1,6 +1,6 @@
 ---
-title: Timeseries Decompostion
-description: timeseries
+title: Time Series Decompostion
+description: Time Series
 layout: default
 ---
 
