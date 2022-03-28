@@ -4,6 +4,7 @@ Description: Main page
 ---
 ![Seattle Skyline](/pics/picture1)
 
-This is content I have developed for my courses
+This is Data Content
 
 - [Time Series Decomposition](/timeseries/index.md)
+- [Data Repo](https://github.com/ahinojosa-data/Data-Science)
